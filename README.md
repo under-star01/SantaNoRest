@@ -1,8 +1,8 @@
 # SANTA_NO_REST
 
 <p align="center">
-  <img height="220" alt="Last Attraction Screenshot 1" src="https://github.com/user-attachments/assets/bfb96544-9378-41da-bca1-f58010378dfc" />
-  <img height="210" alt="Last Attraction Screenshot 2" src="https://github.com/user-attachments/assets/5670a917-e15f-4b41-884e-fc05552a6027" />
+  <img height="240" alt="Last Attraction Screenshot 1" src="https://github.com/user-attachments/assets/bfb96544-9378-41da-bca1-f58010378dfc" />
+  <img height="240" alt="Last Attraction Screenshot 2" src="https://github.com/user-attachments/assets/5670a917-e15f-4b41-884e-fc05552a6027" />
 </p>
 
 **Santa No Rest**는 시야와 소리 기반 감지 시스템을 활용한  
